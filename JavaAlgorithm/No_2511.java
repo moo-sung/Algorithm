@@ -1,5 +1,5 @@
 package JavaAlgorithm;
 
-public class No_1074 {
+public class No_2511 {
     
 }
